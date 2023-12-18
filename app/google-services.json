@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179181186051",
+    "project_id": "contactpro-c49b8",
+    "storage_bucket": "contactpro-c49b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179181186051:android:4c7b17d4870cd2f5833236",
+        "android_client_info": {
+          "package_name": "com.example.contactpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179181186051-a2jde1u6jt752qn1vidd43u7gtrs15gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu27LS8RPthe5wtim5dOdcSSERUo6K7u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179181186051-a2jde1u6jt752qn1vidd43u7gtrs15gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
