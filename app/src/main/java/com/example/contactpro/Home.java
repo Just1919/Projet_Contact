@@ -29,7 +29,7 @@ import com.google.firebase.firestore.QuerySnapshot;
 import java.util.LinkedList;
 
 public class Home extends AppCompatActivity implements View.OnClickListener{
-    //Déclaration des variables
+    //Déclaration des variables et sans initialisation
     TextView username;
     private FloatingActionButton fab_add;
     private ImageButton logout;
