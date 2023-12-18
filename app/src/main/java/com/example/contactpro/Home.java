@@ -42,8 +42,8 @@ public class Home extends AppCompatActivity implements View.OnClickListener{
     LinkedList<Contact> contacts;
     LinkedList<Contact> allContacts; // Added attribute for storing all contacts
     RecyclerView contactsRecycler;
-    EditText searchEditText; // Added EditText for search
-
+    EditText searchEditText; // Added EditText for search 
+ //Déclaration des methodes
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
