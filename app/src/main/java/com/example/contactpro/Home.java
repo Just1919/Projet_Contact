@@ -31,7 +31,7 @@ import java.util.LinkedList;
 
 // Declaration des methodes et variables
 public class Home extends AppCompatActivity implements View.OnClickListener{
-    //Déclaration des variables et sans initialisation
+    //Déclaration des variables et initialisation
     TextView username;
     private FloatingActionButton fab_add;
     private ImageButton logout;
