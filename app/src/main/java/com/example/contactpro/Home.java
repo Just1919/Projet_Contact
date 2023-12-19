@@ -28,6 +28,8 @@ import com.google.firebase.firestore.QueryDocumentSnapshot;
 import com.google.firebase.firestore.QuerySnapshot;
 import java.util.LinkedList;
 
+
+// Declaration des  variables
 public class Home extends AppCompatActivity implements View.OnClickListener{
     //Déclaration  et initialisation
     TextView username;
