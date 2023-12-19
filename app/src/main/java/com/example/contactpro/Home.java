@@ -1,5 +1,5 @@
 package com.example.contactpro;
-//Déclaration  et initialisation
+//Déclaration  et initialisation S
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
