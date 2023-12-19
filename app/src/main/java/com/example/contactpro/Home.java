@@ -1,5 +1,5 @@
 package com.example.contactpro;
-
+// Declaration des  variables
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
