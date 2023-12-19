@@ -1,5 +1,5 @@
 package com.example.contactpro;
-// Declaration des  variables
+//Déclaration  et initialisation
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -31,7 +31,7 @@ import java.util.LinkedList;
 
 // Declaration des  variables
 public class Home extends AppCompatActivity implements View.OnClickListener{
-    //Déclaration des variables et initialisation
+    //Déclaration  et initialisation
     TextView username;
     private FloatingActionButton fab_add;
     private ImageButton logout;
@@ -43,7 +43,7 @@ public class Home extends AppCompatActivity implements View.OnClickListener{
     LinkedList<Contact> allContacts; // Added attribute for storing all contacts
     RecyclerView contactsRecycler;
     EditText searchEditText; // Added EditText for search 
- //Déclaration des methodes
+ //Déclaration des methodes et variables
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
